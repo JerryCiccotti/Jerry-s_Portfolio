@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Leno"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
